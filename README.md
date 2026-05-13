@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lukintosh/.github/main/assets/lukintosh-banner.png" alt="Lukintosh Banner" width="100%">
+<img src="https://raw.githubusercontent.com/lukintosh/.github/main/assets/LukintoshLogo_white_black_logo_icon_text.png" alt="Lukintosh Banner" width="100%">
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/lukintosh/.github/main/assets/lukintosh-logo.png" alt="Lukintosh Logo" width="120">
+<img src="https://raw.githubusercontent.com/lukintosh/.github/main/assets/Lukintosh_black_logo%20-%20Copia.png" alt="Lukintosh Logo" width="120">
 
 # Lukintosh
 
