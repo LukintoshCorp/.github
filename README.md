@@ -1,10 +1,24 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/lukintosh/.github/main/assets/lukintosh-banner.png" alt="Lukintosh Banner" width="100%">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/lukintosh/.github/main/assets/lukintosh-logo.png" alt="Lukintosh Logo" width="120">
+
 # Lukintosh
 
-**Building software, developer tools, identity systems and human-computer interaction technologies.**
+### Software. Identity. Developer tools. Human-computer interaction.
 
-[Website](https://lukintosh.com) · [Trust Center](https://trust.lukintosh.com) · [Status](https://status.lukintosh.com) · [Support](https://support.lukintosh.com) · [Developer Portal](https://developers.lukintosh.com)
+**Lukintosh is a technology company in development focused on building secure, useful and well-designed digital products.**
+
+<br>
+
+[![Website](https://img.shields.io/badge/Website-lukintosh.com-black?style=for-the-badge)](https://lukintosh.com)
+[![Trust Center](https://img.shields.io/badge/Trust%20Center-trust.lukintosh.com-blue?style=for-the-badge)](https://trust.lukintosh.com)
+[![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)](https://status.lukintosh.com)
+[![npm](https://img.shields.io/badge/npm-%40lukintosh-red?style=for-the-badge&logo=npm)](https://www.npmjs.com/org/lukintosh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lukintosh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/lukintosh)
 
 </div>
 
@@ -14,85 +28,89 @@
 
 Lukintosh is a technology company in development focused on software, digital identity, developer platforms, game technology and human-computer interaction.
 
-We build products and experiments across areas such as authentication, accessibility, games, AI-assisted tools, web platforms and operating-system-level experiences.
+We build products and experiments across areas such as authentication, accessibility, AI-assisted tools, web platforms, game systems and operating-system-level experiences.
 
-Our goal is to create useful, secure and well-designed technology with a strong focus on reliability, privacy and developer experience.
-
----
-
-## Main Projects
-
-### Lukintosh ID
-
-A secure identity and account system for the Lukintosh ecosystem, focused on authentication, multi-factor security, session management and user account control.
-
-**Focus areas:**
-
-- Authentication
-- Two-factor authentication
-- Account security
-- Login notifications
-- User profile management
-- OAuth integrations
+Our goal is to create useful, secure and reliable technology with a strong focus on privacy, design, developer experience and long-term innovation.
 
 ---
 
-### Lukintosh Yeux
+## Core Projects
 
-A software-first human-computer interaction project focused on controlling the computer through gaze, facial movement and gestures using a regular camera.
-
-**Focus areas:**
-
-- Eye tracking
-- Face tracking
-- Gesture control
-- Accessibility
-- Real-time cursor control
-- Human-computer interaction
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Lukintosh ID</h3>
+      <p>
+        A secure identity and account system for the Lukintosh ecosystem, focused on authentication, session management, multi-factor security and account control.
+      </p>
+      <ul>
+        <li>Authentication</li>
+        <li>Two-factor authentication</li>
+        <li>OAuth integrations</li>
+        <li>Login notifications</li>
+        <li>Account management</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>Lukintosh Yeux</h3>
+      <p>
+        A software-first human-computer interaction project focused on controlling computers through gaze, facial movement and gestures using a regular camera.
+      </p>
+      <ul>
+        <li>Eye tracking</li>
+        <li>Face tracking</li>
+        <li>Gesture control</li>
+        <li>Accessibility</li>
+        <li>Real-time cursor control</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Avalynx</h3>
+      <p>
+        A family of AI-assisted and productivity-focused software products designed around voice, automation and intelligent user experiences.
+      </p>
+      <ul>
+        <li>Voice interfaces</li>
+        <li>AI-assisted workflows</li>
+        <li>Mobile experiences</li>
+        <li>Productivity tools</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>Lukintosh Developer Tools</h3>
+      <p>
+        Developer-focused tools, SDKs, APIs and packages for building software within the Lukintosh platform.
+      </p>
+      <ul>
+        <li>SDKs</li>
+        <li>APIs</li>
+        <li>npm packages</li>
+        <li>Automation</li>
+        <li>Internal infrastructure</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Avalynx
+## Technology Areas
 
-Avalynx is a family of software products and experiments focused on AI-assisted tools, productivity, voice interaction and intelligent user experiences.
+<div align="center">
 
-**Focus areas:**
+| Area | Focus |
+|---|---|
+| Identity | Authentication, accounts, MFA and security |
+| Developer Tools | SDKs, packages, APIs and automation |
+| Web Platforms | Websites, dashboards and cloud services |
+| Game Technology | Engines, tools and interactive systems |
+| Human-Computer Interaction | Eye tracking, gestures and accessibility |
+| Security | Trust, privacy, responsible disclosure and hardening |
+| AI-Assisted Software | Productivity, automation and intelligent interfaces |
 
-- Voice interfaces
-- AI-assisted workflows
-- Productivity tools
-- Mobile experiences
-- User input systems
-
----
-
-### Lukintosh Developer Tools
-
-Developer-focused tools, SDKs, packages and infrastructure for building software inside the Lukintosh platform.
-
-**Focus areas:**
-
-- SDKs
-- APIs
-- npm packages
-- Web tools
-- Automation
-- Internal infrastructure
-
----
-
-### Lukintosh Studios
-
-Game and interactive media projects developed under the Lukintosh ecosystem.
-
-**Focus areas:**
-
-- Game development
-- Unreal Engine
-- Unity
-- Interactive systems
-- Game infrastructure
-- Experimental gameplay
+</div>
 
 ---
 
