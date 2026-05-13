@@ -137,5 +137,66 @@ If you discover a vulnerability in a public Lukintosh project or service, please
 
 **Security contact:**
 
-```txt
+
 security@lukintosh.com
+
+Please do not publicly disclose security issues before we have investigated and released a fix.
+
+For more information, visit:
+
+https://trust.lukintosh.com
+Repository Standards
+
+Lukintosh repositories may include:
+
+Clear documentation
+Security policies
+Issue templates
+Pull request templates
+Versioned releases
+Changelogs
+CI checks
+License information
+Contribution guidelines
+
+We aim to keep public repositories organized, useful and easy to understand.
+
+Development Philosophy
+
+We believe good technology should be:
+
+Useful
+Fast
+Secure
+Accessible
+Well-designed
+Reliable
+Easy to understand
+Respectful of user privacy
+
+Lukintosh is built with a startup mindset: move fast, learn quickly, improve constantly and build products that people can actually use.
+
+Contact
+
+For support:
+
+support@lukintosh.com
+
+For security reports:
+
+security@lukintosh.com
+
+For general information:
+
+hello@lukintosh.com
+<div align="center"> <img src="https://raw.githubusercontent.com/lukintosh/.github/main/assets/Lukintosh_black_logo%20-%20Copia.png" alt="Lukintosh Icon" width="90">
+
+<br><br>
+
+Lukintosh Corporation
+
+Software. Identity. Developer tools. Human-computer interaction.
+
+https://lukintosh.com
+
+</div> 
