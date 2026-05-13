@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lukintosh/.github/assets/LukintoshLogo_white_black_logo_icon_text.png" alt="Lukintosh Banner" width="100%">
+<img src="https://raw.githubusercontent.com/LukintoshCorp/.github/assets/LukintoshLogo_white_black_logo_icon_text.png" alt="Lukintosh Banner" width="100%">
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/lukintosh/.github/assets/Lukintosh_black_logo%20-%20Copia.png" alt="Lukintosh Logo" width="120">
+<img src="https://raw.githubusercontent.com/LukintoshCorp/.github/assets/Lukintosh_black_logo%20-%20Copia.png" alt="Lukintosh Logo" width="120">
 
 # Lukintosh
 
@@ -189,7 +189,7 @@ security@lukintosh.com
 For general information:
 
 hello@lukintosh.com
-<div align="center"> <img src="https://raw.githubusercontent.com/lukintosh/.github/assets/Lukintosh_black_logo%20-%20Copia.png" alt="Lukintosh Icon" width="90">
+<div align="center"> <img src="https://raw.githubusercontent.com/LukintoshCorp/.github/assets/Lukintosh_black_logo%20-%20Copia.png" alt="Lukintosh Icon" width="90">
 
 <br><br>
 
